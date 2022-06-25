@@ -1,0 +1,15 @@
+C:\Users\Ayub\source\repos\EmployeeWage_OOPS\EmployeeWage_OOPS\bin\Debug\net6.0\EmployeeWage_OOPS.exe
+C:\Users\Ayub\source\repos\EmployeeWage_OOPS\EmployeeWage_OOPS\bin\Debug\net6.0\EmployeeWage_OOPS.deps.json
+C:\Users\Ayub\source\repos\EmployeeWage_OOPS\EmployeeWage_OOPS\bin\Debug\net6.0\EmployeeWage_OOPS.runtimeconfig.json
+C:\Users\Ayub\source\repos\EmployeeWage_OOPS\EmployeeWage_OOPS\bin\Debug\net6.0\EmployeeWage_OOPS.dll
+C:\Users\Ayub\source\repos\EmployeeWage_OOPS\EmployeeWage_OOPS\bin\Debug\net6.0\EmployeeWage_OOPS.pdb
+C:\Users\Ayub\source\repos\EmployeeWage_OOPS\EmployeeWage_OOPS\obj\Debug\net6.0\EmployeeWage_OOPS.csproj.AssemblyReference.cache
+C:\Users\Ayub\source\repos\EmployeeWage_OOPS\EmployeeWage_OOPS\obj\Debug\net6.0\EmployeeWage_OOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayub\source\repos\EmployeeWage_OOPS\EmployeeWage_OOPS\obj\Debug\net6.0\EmployeeWage_OOPS.AssemblyInfoInputs.cache
+C:\Users\Ayub\source\repos\EmployeeWage_OOPS\EmployeeWage_OOPS\obj\Debug\net6.0\EmployeeWage_OOPS.AssemblyInfo.cs
+C:\Users\Ayub\source\repos\EmployeeWage_OOPS\EmployeeWage_OOPS\obj\Debug\net6.0\EmployeeWage_OOPS.csproj.CoreCompileInputs.cache
+C:\Users\Ayub\source\repos\EmployeeWage_OOPS\EmployeeWage_OOPS\obj\Debug\net6.0\EmployeeWage_OOPS.dll
+C:\Users\Ayub\source\repos\EmployeeWage_OOPS\EmployeeWage_OOPS\obj\Debug\net6.0\refint\EmployeeWage_OOPS.dll
+C:\Users\Ayub\source\repos\EmployeeWage_OOPS\EmployeeWage_OOPS\obj\Debug\net6.0\EmployeeWage_OOPS.pdb
+C:\Users\Ayub\source\repos\EmployeeWage_OOPS\EmployeeWage_OOPS\obj\Debug\net6.0\EmployeeWage_OOPS.genruntimeconfig.cache
+C:\Users\Ayub\source\repos\EmployeeWage_OOPS\EmployeeWage_OOPS\obj\Debug\net6.0\ref\EmployeeWage_OOPS.dll
