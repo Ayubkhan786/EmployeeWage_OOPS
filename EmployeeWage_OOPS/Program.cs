@@ -2,7 +2,7 @@
 int empAbsent = 0;
 int empPresent = 1;
 int empPartTime = 2;
-
+int numWorkingDays = 20;
 int empWrkHrs = 0;
 int empSalary = 50;
 
@@ -26,4 +26,6 @@ switch (attendance)
 }
 
 int empWage = (empWrkHrs * empSalary);
-Console.WriteLine("The total salary is :" + empWage);
+int monthlyWage = (empWage * numWorkingDays);
+Console.WriteLine("Per Day salary is :" + empWage);
+Console.WriteLine("The Monthly salary is :" + monthlyWage);
