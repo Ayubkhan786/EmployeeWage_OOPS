@@ -16,9 +16,14 @@ namespace EmployeeWage_OOPS
             public const int empSalary = 20;
             public const int MAX_DAYS = 20;
             public const int MAX_HRS = 100;
-            //Console.WriteLine("Welcome to Employee Wage Computation Program");
+        //Console.WriteLine("Welcome to Employee Wage Computation Program");
 
-            public void EmployeeWage()
+        public void EmployeeWage
+            ( string Companyname, 
+            int empSalary, 
+            int MAX_DAYS, 
+            int MAX_HRS )
+
             {
 
 
@@ -58,6 +63,7 @@ namespace EmployeeWage_OOPS
 
                 int monthlyWage = (empWrkHrs * MAX_DAYS * empSalary);
                 Console.WriteLine("The Monthly salary is :" + monthlyWage);
+            Console.WriteLine("*********************************************************************************");
             }
         }
 }

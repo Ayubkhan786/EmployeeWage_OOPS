@@ -12,4 +12,8 @@ using EmployeeWage_OOPS;
 
 
     EmpWage empWage = new EmpWage();
-empWage.EmployeeWage();
+empWage.EmployeeWage("TCS", 30, 28, 56); 
+empWage.EmployeeWage("CTS", 40, 20, 70); 
+empWage.EmployeeWage("INFOSYS", 50, 22, 60); 
+empWage.EmployeeWage("CAPGEMINI", 65, 25, 40); 
+
